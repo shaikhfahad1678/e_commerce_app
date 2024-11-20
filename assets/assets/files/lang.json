@@ -1,0 +1,52 @@
+
+
+{
+   "products": [
+    {
+     
+      "name": "iphone 12 pro",
+      "desc": "128GB internal",
+      "price": 2444, 
+      "color": "#33505a",
+      "image":  "http://5.imimg.com/data5/SELLER/Default/2021/1/SD/ML/TX/14753644/iphone-12-pro-max-2-.jpg"  
+    },
+         
+    {
+        
+        "name": "Galaxy fold Z",
+        "desc": "256GB internal",
+        "price": 5446,
+        "color": "#33505a",
+        "image":"https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-z-fold5/images/galaxy-z-fold5-highlights-sustainability-mo.jpg?imbypass=true"},
+
+      {
+        
+        "name": "Mac Os Apple",
+        "desc": "512GB internal",
+        "price": 4788,
+        "color": "#33505a",
+        "image":  "https://quicktech.in/cdn/shop/files/4_5857e4ee-799d-43d4-9f4e-5505eaebac7a.jpg?v=169607439245"},
+
+      {
+        
+        "name": "ipad 13 pro",
+        "desc": "345GB internal",
+        "price": 5557,
+        "color": "#33505a",
+        "image":  "https://5.imimg.com/data5/SELLER/Default/2023/3/PE/NY/QA/181126883/apple-ipad-pro-500x500.png"
+      },
+      
+      {
+        
+        "name": "Apple cpu",
+        "desc": "260GB internal",
+        "price": 2444,
+        "color": "#33505a",
+        "image": "https://5.imimg.com/data5/NM/VC/MY-55754229/apple-mac-pro-cpu-md770hn-2fa.png"
+      }
+
+   ]
+
+
+
+}
